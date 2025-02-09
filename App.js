@@ -1,20 +1,26 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useEffect } from 'react';
+import { StatusBar } from 'react-native';
+import AppNavigator from './src/navigation/AppNavigator';
+import { initDatabase } from './src/database/database';
 
 export default function App() {
+  useEffect(() => {
+    const initStorage = async () => {
+      try {
+        await initDatabase();
+        console.log('Storage initialized');
+      } catch (error) {
+        console.error('Error initializing storage:', error);
+      }
+    };
+    
+    initStorage();
+  }, []);
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <>
+      <StatusBar barStyle="dark-content" backgroundColor="#F5F5F5" />
+      <AppNavigator />
+    </>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
