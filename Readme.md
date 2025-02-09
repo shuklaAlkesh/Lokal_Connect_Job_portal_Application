@@ -5,7 +5,7 @@ This is a React Native application built as part of the Lokal App assignment. Th
 
 ## Demo Video
 Watch the app demonstration here:
-[Demo Video Link](https://drive.google.com/file/d/1G3SzxLkSPEAYTuSv3lp5FXPwtcfzR15h/view?usp=sharing)
+[Demo Video Link](https://drive.google.com/file/d/1N1wzUGEplxmrImRaMGjGKNHZhgEmLx8-/view?usp=sharing)
 
 ## Repository
 Access the complete source code here:
