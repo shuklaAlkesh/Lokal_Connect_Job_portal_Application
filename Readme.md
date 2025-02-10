@@ -1,7 +1,7 @@
 # Lokal App React Native Assignment
 
 ## Overview
-This is a React Native application built as part of the Lokal App assignment. The app demonstrates various React Native functionalities and features.
+Lokal Job Search is a comprehensive mobile application built with React Native that connects job seekers with local employment opportunities. This app was developed as part of the Lokal App assignment, showcasing a modern approach to local job hunting.
 
 ## Demo Video
 Watch the app demonstration here:
