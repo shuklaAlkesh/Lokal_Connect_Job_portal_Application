@@ -3,6 +3,19 @@
 ## Overview
 Lokal Job Search is a comprehensive mobile application built with React Native that connects job seekers with local employment opportunities. This app was developed as part of the Lokal App assignment, showcasing a modern approach to local job hunting.
 
+## Mobile Preview
+Here are some snapshots of the dashboard:
+
+<p align="center">
+  <img src="images/1.png" width="500" hight="500">
+  <img src="images/2.png" width="500" hight="500">
+</p>
+
+<p align="center">
+  <img src="images/3.png" width="500" hight="500">
+  <img src="images/4.png" width="500" hight="500">
+</p>
+
 ## Demo Video
 Watch the app demonstration here:
 [Demo Video Link](https://drive.google.com/file/d/1N1wzUGEplxmrImRaMGjGKNHZhgEmLx8-/view?usp=sharing)
