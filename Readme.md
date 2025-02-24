@@ -7,13 +7,13 @@ Lokal Job Search is a comprehensive mobile application built with React Native t
 Here are some snapshots of the dashboard:
 
 <p align="center">
-  <img src="images/1.png" width="500" hight="500">
-  <img src="images/2.png" width="500" hight="500">
+  <img src="Images/1.jpeg" width="300" hight="300">
+  <img src="Images/2.jpeg" width="300" hight="300">
 </p>
 
 <p align="center">
-  <img src="images/3.png" width="500" hight="500">
-  <img src="images/4.png" width="500" hight="500">
+   <img src="Images/4.jpeg" width="300" hight="300">
+  <img src="Images/3.jpeg" width="300" hight="300">
 </p>
 
 ## Demo Video
